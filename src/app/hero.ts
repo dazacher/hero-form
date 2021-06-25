@@ -7,4 +7,5 @@ export class Hero {
       public alterEgo?: string
     ) {  }
   
+    
   }
